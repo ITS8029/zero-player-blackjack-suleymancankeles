@@ -18,6 +18,10 @@ Unlike regular blackjack, the player doesn't have a choice whether to Hit or Sta
 
 ## Implementation notes:
 
+A class called ZeroPlayerBlackjack.java is included, and you can put your code in the main method of that class.
+
+Use the provided Deck.java and Card.java classes to deal the player cards.
+
 To instantiate a Deck, use:
 
 ```java
